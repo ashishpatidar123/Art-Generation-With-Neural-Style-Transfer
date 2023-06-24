@@ -1,2 +1,2 @@
-# Music-Generation-Using-RNN
-A simple ML model for Music Generation using Recurrent Neural Network
+# Art Generation With Neural Style Transfer
+A simple ML model for generating a artistic image by merging a content image with a style image.
